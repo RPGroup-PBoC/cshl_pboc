@@ -1,0 +1,53 @@
+
+- name: Rob Phillips
+  image: rob.jpg
+  email: phillips [at] pboc [dot] caltech [dot] edu
+  role: Instructor
+  institution: California Institute of Technology
+  link: "http://www.rpgroup.caltech.edu"
+
+
+- name: Hernan Garcia
+  email: hggarcia [at] berkeley [dot] edu
+  image: hernan.jpg
+  institution: University of Calfifornia - Berkeley
+  link: "http://physics.berkeley.edu/people/faculty/hernan-garcia"
+  role: Instructor
+
+
+- name: Madhav Mani
+  email: madhav [dot] mani [at] northwestern [dot] edu
+  image: madhav.jpg
+  institution: Northwestern University
+  role: Instructor
+  link: "http://www.madhavmani.com"
+
+
+- name: Patricia Bassereau
+  email: patricia [dot] bassereau [at] curie [dot] fr
+  image: patricia.jpg
+  role: Instructor
+  institution: Institut Curie
+  link: "https://science.institut-curie.org/research/multiscale-physics-biology-chemistry/umr168-physical-chemistry/team-bassereau/"
+
+
+- name: Aleksandra Walczak
+  image: aleks.jpg
+  role: Instructor
+  email: awalczak [at] lpt [dot] ens [dot] fr
+  institution: Centre Nationnal de la Recherche Scientifique
+  link: "https://www.phys.ens.fr/~awalczak/"
+
+- name: Jané Kondev
+  image: jane.jpg
+  role: Instructor
+  email: kondev [at] brandeis [dot] edu
+  institution: Brandeis University
+  link: "http://people.brandeis.edu/~kondev/"
+
+
+- name: Muir Morrison
+  image: muir.jpg
+  email: muir [at] caltech [dot] edu
+  institution: California Institute of Technology
+  role: Teaching Assistant
