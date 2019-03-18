@@ -15,21 +15,6 @@
   role: Instructor
 
 
-- name: Madhav Mani
-  email: madhav [dot] mani [at] northwestern [dot] edu
-  image: madhav.jpg
-  institution: Northwestern University
-  role: Instructor
-  link: "http://www.madhavmani.com"
-
-
-- name: Aleksandra Walczak
-  image: aleks.jpg
-  role: Instructor
-  email: awalczak [at] lpt [dot] ens [dot] fr
-  institution: Centre Nationnal de la Recherche Scientifique
-  link: "https://www.phys.ens.fr/~awalczak/"
-
 - name: Jané Kondev
   image: jane.jpg
   role: Instructor
@@ -37,9 +22,16 @@
   institution: Brandeis University
   link: "http://people.brandeis.edu/~kondev/"
 
+- name: Sanjoy Mahajan
+  image: sanjoy.jpg
+  role: Instructor 
+  email: sanjoy [at] olin [dot] edu
+  institution: Olin College
+  link: "http://www.olin.edu/faculty/profile/sanjoy-mahajan/"
+
 
 - name: Shahrzad Yazdi
-  image: muir.jpg
+  image: Shahrzad.jpg
   email: yazdi [at] mit [dot] edu
   institution: Massachusetts Institute of Technology
   role: Teaching Assistant
